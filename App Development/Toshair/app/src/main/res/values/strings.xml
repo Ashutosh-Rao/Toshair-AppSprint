@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Toshair</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="post">Post</string>
+    <string name="my_account">My account</string>
+    <string name="publish">Publish</string>
+    <string name="enter_the_content">Enter the content</string>
+    <string name="enter_a_title">Enter a title</string>
+    <string name="nature_post">Nature post</string>
+    <string name="titlebar">Titlebar</string>
+    <string name="image">image</string>
+</resources>
